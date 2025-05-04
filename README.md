@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Bradley (he/him/his) and I am a first year at California State Univeristy, San Jose studying Computer Science. I am actively experimenting with different areas of technology. Of late, I have been participating in Machine Learning club and am studying cybersecurity in my downtime. 
+I'm Bradley (he/him/his) and I am a first year at California State University, San Jose studying Computer Science. I am actively experimenting with different areas of technology. Of late, I have been participating in Machine Learning club and am studying cybersecurity in my downtime. 
 
 Languages I am working with:
 Python
